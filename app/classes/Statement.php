@@ -18,6 +18,22 @@ class Statement
     public function index()
     {
 
+
+        //<---------- switch statement working ------------>//
+//
+//        switch ($this->x = 20)
+//        {
+//            case 10:
+//                echo "Hello World";
+//                break;
+//            case 20:
+//                echo "Hello PHP";
+//                break;
+//            default :
+//                echo "Nothing";
+//
+//        }
+
         //<---------- ifelseif statement working ------------>//
 
 //        if ($this->x > $this->y)
