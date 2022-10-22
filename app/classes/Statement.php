@@ -15,7 +15,17 @@ class Statement
     public function index()
     {
 
+        //<---------- dowhile statement working ------------>//
 
+
+
+//        $this->x = 100;
+//         do
+//         {
+//             echo $this->x. "   ";
+//             $this->x++;
+//
+//         }while($this->x < 120);
 
 
         //<---------- while statement working ------------>//
