@@ -7,13 +7,22 @@ class Statement
     public $x, $y , $z;
     public function __construct()
     {
-//        $this->x = 10;
-//        $this->y = 20;
-//        $this->z = 30;
+        $this->x = 10;
+        $this->y = 20;
+        $this->z = 30;
     }
 
     public function index()
     {
+
+
+
+        //<---------- if statement working ------------>//
+
+//        if ($this->x < $this->y)
+//        {
+//            echo "hello World";
+//        }
 
         //<---------- dowhile statement working ------------>//
 
